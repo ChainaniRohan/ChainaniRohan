@@ -43,14 +43,6 @@
 
 <div align="center">
 
-
-
-
-<br>
-</br>
-<br>
-<br>
-
 ![](https://komarev.com/ghpvc/?username=ChainaniRohan&style=flat-square)
 
 </center>
